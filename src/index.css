@@ -1,0 +1,19 @@
+
+@import "tailwindcss";
+
+
+*{
+  box-sizing: border-box;
+}
+
+.container{
+  max-width: 1124px;
+  height: auto;
+  margin: 0 auto;
+}
+.active{
+  color: yellow;
+  font-weight: 600;
+}
+
+.list{border-left: 4px solid #5EABD6;}
